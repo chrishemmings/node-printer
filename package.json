@@ -16,9 +16,6 @@
     "url": "https://github.com/tojocky/node-printer.git"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-jshint": "^2.1.0",
     "grunt-node-gyp": "git://github.com/tojocky/grunt-node-gyp.git",
     "grunt-nw-gyp": "git://github.com/tojocky/grunt-nw-gyp.git",
     "nodeunit": "*"
